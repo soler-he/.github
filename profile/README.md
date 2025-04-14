@@ -1,5 +1,3 @@
-# .github
-
 This organisation brings together the tools developed and delivered by the Energetic Solar Eruptions: Data and Analysis Tools (SOLER) Project.
 
 For full project details, see our website at: https://soler-horizon.eu/
