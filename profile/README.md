@@ -5,7 +5,7 @@ For full project details, see our website at: https://soler-horizon.eu/
 * CIDER: Coronal magnetIc fieLD ExtRapolation tools: https://github.com/jpomoell/cider
 * CREST: Coronal and Heliospheric Reconstruction and Visualisation: https://github.com/jpomoell/crest
 * ELECTRICIT: Electric Field Inversion Toolkit: https://github.com/jpomoell/electricit
-* SEP Tools: https://github.com/soler-he/sep_tools
+* SEP Tools: Solar Energetic Particle (SEP) Analysis Tools https://github.com/soler-he/sep_tools
 * SHELVIS: Solar and Heliospheric Visualisation tool: https://github.com/jpomoell/shelvis
 * SOLERWave: https://github.com/soler-he/SOLERwave_tool
 
