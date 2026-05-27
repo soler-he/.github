@@ -6,6 +6,7 @@ For full project details, see our website at: https://soler-horizon.eu/
 * CREST: Coronal and Heliospheric Reconstruction and Visualisation: https://github.com/jpomoell/crest
 * EASI: Electron Acceleration Simulation: https://github.com/SeveNyberg/easi
 * ELECTRICIT: Electric Field Inversion Toolkit: https://github.com/jpomoell/electricit
+* NenuFAR SUN: Solar Imaging Workflow: https://github.com/JingeZhang94/NenuFAR_SUN_Imaging_workflow
 * NenuSunPy: Solar Radio Processing: https://gitlab.obspm.fr/soler/nenusunpy
 * SEP Tools: Solar Energetic Particle (SEP) Analysis Tools https://github.com/soler-he/sep_tools
 * SHELVIS: Solar and Heliospheric Visualisation tool: https://github.com/jpomoell/shelvis
