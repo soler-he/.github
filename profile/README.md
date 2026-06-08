@@ -10,6 +10,7 @@ For full project details, see our website at: https://soler-horizon.eu/
 * NenuSunPy: Solar Radio Processing: https://gitlab.obspm.fr/soler/nenusunpy
 * SEP Tools: Solar Energetic Particle (SEP) Analysis Tools https://github.com/soler-he/sep_tools
 * SHELVIS: Solar and Heliospheric Visualisation tool: https://github.com/jpomoell/shelvis
+* SOLERsources: https://github.com/kdissauer/SOLERsources
 * SOLERWave: https://github.com/soler-he/SOLERwave_tool
 
 SOLER has also contributed to:
