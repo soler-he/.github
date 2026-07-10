@@ -1,6 +1,6 @@
 This organisation brings together the tools developed and delivered by the Energetic Solar Eruptions: Data and Analysis Tools (SOLER) Project.
 
-For full project details, see our website at: https://soler-horizon.eu/
+For full project details, see our website at: https://soler-horizon.eu
 
 * CIDER: Coronal magnetIc fieLD ExtRapolation tools: https://github.com/jpomoell/cider
 * CREST: Coronal and Heliospheric Reconstruction and Visualisation: https://github.com/jpomoell/crest
