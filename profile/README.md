@@ -11,7 +11,7 @@ For full project details, see our website at: https://soler-horizon.eu/
 * SEP Tools: Solar Energetic Particle (SEP) Analysis Tools https://github.com/soler-he/sep_tools
 * SHELVIS: Solar and Heliospheric Visualisation tool: https://github.com/jpomoell/shelvis
 * SJET: Solar Jet Extraction Tool: https://github.com/songsolarphysics/SJET
-* SOLERsources: https://github.com/kdissauer/SOLERsources
+* SOLERsources: https://github.com/soler-he/SOLERsources
 * SOLERWave: https://github.com/soler-he/SOLERwave_tool
 
 SOLER has also contributed to:
